@@ -1,12 +1,12 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: Ricky Blog
+SEOTitle: Ricky的博客 | Ricky Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: admin@ghitwh.top
 description: ""
 keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "http://ryqcan.github.io"              # your host, for absolute URL
+baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
