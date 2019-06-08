@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: admin@ghitwh.top
 description: ""
 keyword: ""
-url: "http://ryqcan.github.io"              # your host, for absolute URL
-baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://ryqcan.github.io"              # your host, for absolute URL
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
